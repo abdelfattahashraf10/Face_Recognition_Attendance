@@ -1,0 +1,44 @@
+{
+  "Students": {
+    "90364": {
+      "ID": 90364,
+      "last_attendance_time": "2024-05-26 21:21:44",
+      "major": "AI",
+      "name": "Abdelfattah Ashraf",
+      "standing": "G",
+      "starting_year": 2020,
+      "total_attendance": 116,
+      "year": 4
+    },
+    "90365": {
+      "ID": 90365,
+      "last_attendance_time": "2024-05-14 14:22:15",
+      "major": "CS",
+      "name": "Ebrahim Azzmy",
+      "standing": "V.G",
+      "starting_year": 2020,
+      "total_attendance": 12,
+      "year": 4
+    },
+    "98048": {
+      "ID": 98048,
+      "last_attendance_time": "2024-05-14 15:04:16",
+      "major": "AI",
+      "name": "Youssef Elweshahy",
+      "standing": "V.G",
+      "starting_year": 2020,
+      "total_attendance": 20,
+      "year": 4
+    },
+    "20001609": {
+      "ID": 20001609,
+      "last_attendance_time": "2024-05-14 15:04:20",
+      "major": "AI",
+      "name": "Ali Khaled",
+      "standing": "V.G",
+      "starting_year": 2020,
+      "total_attendance": 31,
+      "year": 4
+    }
+  }
+}
